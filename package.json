@@ -19,7 +19,7 @@
   "homepage": "https://github.com/silltho/demo-metrics-server#readme",
   "dependencies": {
     "typescript": "^3.7.5",
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/node": "^13.5.3",
